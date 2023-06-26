@@ -13,7 +13,7 @@ import {
     TypingIndicator,
 } from "@chatscope/chat-ui-kit-react";
 
-const API_KEY = "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";
+const API_KEY = <!-- "replace with API key"; -->
 
 function App() {
     const [typing, setTyping] = useState(false);
