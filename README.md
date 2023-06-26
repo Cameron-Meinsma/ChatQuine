@@ -26,6 +26,7 @@ Furthermore, we used the YouTube video called [Build A Chatbot With The ChatGPT 
 
 -   Have [Node.js](https://nodejs.org/en/download) installed
 -   Have npm installed
+-   Put the API key in the App.jsx file at the given place
 
 For more information regarding installing Node.js and npm, see: [Downloading and installing Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
