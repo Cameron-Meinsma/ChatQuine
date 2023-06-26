@@ -67,6 +67,9 @@ _Line 16:_
 const API_KEY = "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";
 ```
 
+**Do Note: the API key used here is not a usable API key.**
+<br />
+<br />
 We linked the API key to a variable called `API_KEY`. We created this key by following the steps below:
 
 1. Creating an OpenAI account on the [OpenAI Website](https://openai.com/).
