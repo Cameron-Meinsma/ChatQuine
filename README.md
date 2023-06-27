@@ -19,6 +19,8 @@ This Analysis Notebook consists of both a user manual to help you run the ChatQu
 
 Furthermore, we used the YouTube video called [Build A Chatbot With The ChatGPT API In React (gpt-3.5-turbo Tutorial)](https://www.youtube.com/watch?v=Lag9Pj_33hM&t=0m00s) to code the larger portion of the `App.jsx` file. Moreover, we came up with the whole `style.css` file ourselves. Finally, we kept most of the `index.html` file true to its original state.
 
+Moreover, we have built a [prototype in Figma](https://clipchamp.com/watch/suQ7mlDSv1x).
+
 ---
 ## User Manual
 
